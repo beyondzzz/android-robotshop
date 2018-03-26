@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="aar" type="ARCHIVE" />
+      <mapping ext="so" type="ARCHIVE" />
+      <mapping pattern="api" type="CLASS" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="shape" type="XML" />
+      <mapping pattern="circle" type="XML" />
+      <mapping pattern="payDialog" type="XML" />
+      <mapping pattern="box" type="XML" />
+      <mapping pattern="paymentWindow" type="XML" />
+      <mapping pattern="shape_red_corners_button_pressed" type="XML" />
+      <mapping pattern="color" type="XML" />
+      <mapping pattern="circleButton" type="XML" />
+      <mapping pattern="rectangle" type="XML" />
+      <mapping pattern="shape_red_corners_button" type="XML" />
+    </extensionMap>
+  </component>
+</application>
